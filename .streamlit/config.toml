@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#137C78"
+backgroundColor = "#F5F8F7"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#18323A"
+linkColor = "#137C78"
+borderColor = "#D8E4E1"
+baseRadius = "large"
+showWidgetBorder = true
+font = "sans-serif"
+headingFont = "sans-serif"
+baseFontSize = 16
+baseFontWeight = 400
+paddingTop = "2rem"
+paddingBottom = "2rem"
