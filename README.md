@@ -2,6 +2,8 @@
 
 A local Streamlit prototype for reviewing observable writing patterns in pasted text or selectable text extracted from a PDF. It shows matching excerpts, sample length, sentence count, and a rough script estimate. It does not issue an AI-authorship verdict or probability.
 
+**Live app:** https://ai-content-analyzer.streamlit.app/
+
 ## GitHub repository
 
 - **Repository name:** `ai-content-analyzer`
